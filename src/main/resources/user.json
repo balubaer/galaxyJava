@@ -1,0 +1,41 @@
+[ {
+  "id" : 1,
+  "username" : "ZAPHOD",
+  "password" : "$2a$10$Ti2uyiPPoyTVI4KdVMdZYuG39SZ8mGKUJYLk6Z.mwJF.4pwp22.oa",
+  "firstName" : "Bernd",
+  "lastName" : "Niklas",
+  "token" : "",
+  "color" : "#FF672B"
+}, {
+  "id" : 1,
+  "username" : "MARVIN",
+  "password" : "$2a$10$YvMK9THKSypy6LoqSmyQV.MK/lQ.KXXTWg3WARsS7dOqMaWQa6PVG",
+  "firstName" : "Bernd",
+  "lastName" : "Niklas",
+  "token" : "",
+  "color" : "#289E6B"
+}, {
+  "id" : 1,
+  "username" : "ttt",
+  "password" : "1234567",
+  "firstName" : "ttt",
+  "lastName" : "ttt",
+  "token" : "",
+  "color" : "#111920"
+}, {
+  "id" : 1,
+  "username" : "sss",
+  "password" : "ssssss",
+  "firstName" : "sss",
+  "lastName" : "sss",
+  "token" : "",
+  "color" : "#6E402E"
+}, {
+  "id" : 3,
+  "username" : "ARTHUR",
+  "password" : "$2a$10$Ti2uyiPPoyTVI4KdVMdZYuG39SZ8mGKUJYLk6Z.mwJF.4pwp22.oa",
+  "firstName" : "Bernd",
+  "lastName" : "Niklas",
+  "token" : "",
+  "color" : "#FF672B"
+} ]
